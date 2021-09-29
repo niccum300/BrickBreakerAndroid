@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BrickBreaker</string>
+    <string name="start_btn">Start</string>
+    <string name="quit_btn">Quit</string>
+</resources>
